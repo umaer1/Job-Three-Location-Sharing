@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "861476588362",
+    "project_id": "jobthreelocationsharing",
+    "storage_bucket": "jobthreelocationsharing.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861476588362:android:1b7bceca00f23fb1424fb3",
+        "android_client_info": {
+          "package_name": "com.example.jobthreelocationsharing"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJxBiF3JQ29u_IcJVV_pYA468ZNllGZGQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
